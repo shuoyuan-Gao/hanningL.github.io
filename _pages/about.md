@@ -9,17 +9,33 @@ redirect_from:
 
 ## About Me
 
-Hello! I'm **Hanning Lin**, a graduate student in the **Master of Analytics** program at the **University of California, Berkeley**, with a strong background in **Information Science, Econometrics, and Quantitative Economics** from the University of Illinois Urbana-Champaign.
+Hello! I'm **Hanning Lin**, a Master of Analytics student at **UC Berkeley**, with a dual bachelor's degree in **Information Science** and **Econometrics & Quantitative Economics** from the **University of Illinois Urbana-Champaign**. I also minored in **Computer Science** and **Statistics**.
 
-My work lies at the intersection of **machine learning fairness**, **statistical modeling**, and **data-driven decision-making**. I have research experience in **unfairness mitigation** for ML algorithms and have conducted large-scale experiments analyzing gender bias across real-world educational datasets. My goal is to build trustworthy and transparent AI systems.
+My academic and professional interests lie in **machine learning fairness**, **quantitative modeling**, and **data-driven policy impact**. I have conducted research on algorithmic bias mitigation, including a project that achieved a **28.8% increase in fairness** and **45.9% improvement in model accuracy** for gender bias detection in education datasets — currently under review at the *EDM Conference 2025*.
 
-Previously, I’ve worked as a **Quantitative Analyst Intern** at KY Capital, where I applied **neural networks** and **ARIMA** time series forecasting on financial market volatility, and at **China Life**, where I engineered macroeconomic risk models with **SQL pipelines** and **Lasso regression**.
+Professionally, I've interned as a **Quantitative Analyst** at **KY Capital**, where I built predictive models with **neural networks** and **random forests** to forecast option volatility using over **12,000 financial entries**. At **China Life**, I developed **macroeconomic risk models** with pipelines handling **20,000+ rows**, simulating financial stress scenarios and disaster resilience using **Lasso regression** and SQL pipelines.
 
-I’m also passionate about building interactive data tools — like my **U.S. Air Quality Dashboard** and a **Pet Adoption Web App** — which blend front-end development with backend analytics.
+I also enjoy building useful tools — from a **U.S. Air Quality Dashboard** to a **Pet Adoption Website**, I’ve created full-stack applications combining **data visualization**, **REST APIs**, and clean design.
 
 ---
 
-### 🔧 Skills
+### Research Interests
+- Algorithmic Fairness and Bias Mitigation
+- Applied Machine Learning in Finance & Healthcare
+- Time Series Forecasting and Risk Modeling
 
-**Languages:** Python, R, SQL, C++, Java, HTML, JavaScript, CSS  
-**Topics:** ML Fairness, Statistical Modeling, Risk Analysis, Data Engineering, Visualization
+---
+
+### Skills
+
+**Languages**: Python, R, SQL, Java, C++, HTML, JavaScript, CSS  
+**Technologies**: scikit-learn, ggplot2, dplyr, Tableau, ARIMA, Node.js  
+**Tools**: Git, VSCode, MySQL, REST APIs
+
+---
+
+### Looking Ahead
+
+I'm looking for opportunities to apply data science and machine learning in contexts that **directly influence equity, safety, and well-being**, whether in tech, public policy, or healthcare. I'm especially interested in teams working on **interpretable AI** or **fairness-aware systems**.
+
+Let's connect if you're interested in collaborating on **impactful data projects** or if you're hiring for internships or research!
