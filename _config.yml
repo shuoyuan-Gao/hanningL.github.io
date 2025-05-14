@@ -7,8 +7,8 @@ title                    : "Hanning Lin / Portfolio"
 title_separator          : "-"
 name                     : &name "Hanning Lin"
 description              : &description "Quantitative Analyst | ML Fairness | Python, SQL, R"
-url: "https://shuoyuan-Gao.github.io"
-baseurl: "/hanningL.github.io"
+url                      : "https://shuoyuan-Gao.github.io"
+baseurl                  : "/hanningL.github.io"
 repository               : "shuoyuan-Gao/hanningL.github.io"
 
 author:
@@ -20,7 +20,6 @@ author:
   location: "Champaign, IL"
   employer: "University of Illinois Urbana-Champaign"
   email   : "hanning4@illinois.edu"
-  linkedin: "/hanning-lin-866201236"
 
   # Academic websites
   academia         : # URL
@@ -51,7 +50,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "hanning-lin-866201236/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
