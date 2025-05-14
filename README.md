@@ -10,31 +10,12 @@ The site is designed to showcase Hanning's academic background, research interes
 
 ---
 
-## 📁 Directory Structure
 
-| Folder/File       | Description                                                  |
-|-------------------|--------------------------------------------------------------|
-| `_pages/`         | Markdown files for main site pages (About, CV, Contact, etc.)|
-| `_portfolio/`     | Research and project showcase items                          |
-| `_publications/`  | Publication entries in BibTeX-style markdown format          |
-| `_teaching/`      | Teaching-related content (optional)                          |
-| `assets/`         | Images, PDF files, and other static resources                |
-| `_config.yml`     | Main configuration file with site metadata and settings      |
-| `index.md`        | Home page content                                            |
+## 📂 Project Structure
 
----
-
-## 🚀 Local Development Instructions
-
-To run this website locally:
-
-### 1. Prerequisites
-
-- Ruby (>= version 2.5)
-- Bundler
-
-### 2. Clone the Repository
-
-```bash
-git clone https://github.com/shuoyuan-gao/hanningL.github.io.git
-cd hanningL.github.io
+```text
+📁 _portfolio         # Individual project pages
+📁 _publications      # Data visualization showcases
+📁 files/             # PDFs and images
+📁 images/            # Supporting visual content
+_config.yml           # Site configuration
