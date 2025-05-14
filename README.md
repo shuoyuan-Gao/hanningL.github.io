@@ -1,8 +1,8 @@
-# Hanning Lin's Personal Academic Website
+# Hanning Lin's Personal Website
 
-This is the source code repository for [Hanning Lin's academic website](https://shuoyuan-gao.github.io/hanningL.github.io/), created using [Jekyll](https://jekyllrb.com/) and the [academicpages](https://github.com/academicpages/academicpages.github.io) theme.
+This is the source code repository for [Hanning Lin's website](https://shuoyuan-gao.github.io/hanningL.github.io/), created using [Jekyll](https://jekyllrb.com/) and the [academicpages](https://github.com/academicpages/academicpages.github.io) theme.
 
-The site is designed to showcase Hanning's academic background, research interests, publications, teaching experience, and contact information.
+The site is designed to showcase Hanning's overall background, research interests, publications, teaching experience, and contact information.
 
 ## 🌐 Live Website
 
