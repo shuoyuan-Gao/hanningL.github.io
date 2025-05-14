@@ -7,8 +7,8 @@ title                    : "Hanning Lin / Portfolio"
 title_separator          : "-"
 name                     : &name "Hanning Lin"
 description              : &description "Quantitative Analyst | ML Fairness | Python, SQL, R"
-url                      : "https://shuoyuan-Gao.github.io"
-baseurl                  : "/hanningL.github.io"
+url: "https://shuoyuan-Gao.github.io"
+baseurl: "/hanningL.github.io"
 repository               : "shuoyuan-Gao/hanningL.github.io"
 
 # Site Author
